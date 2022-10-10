@@ -1,0 +1,6 @@
+/home/mel/Documents/csharp/Ccal/bin/Release/Ccal.exe
+/home/mel/Documents/csharp/Ccal/bin/Release/QuickTools.dll
+/home/mel/Documents/csharp/Ccal/bin/Release/QuickTools.xml
+/home/mel/Documents/csharp/Ccal/obj/x86/Release/Ccal.csproj.CoreCompileInputs.cache
+/home/mel/Documents/csharp/Ccal/obj/x86/Release/Ccal.csproj.CopyComplete
+/home/mel/Documents/csharp/Ccal/obj/x86/Release/Ccal.exe
