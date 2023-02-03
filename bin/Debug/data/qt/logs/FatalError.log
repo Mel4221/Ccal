@@ -1,0 +1,265 @@
+|*** Date Of The Event :1/23/2023 10:29:38 PM ***|
+
+
+Index was outside the bounds of the array.|*** Date Of The Event :1/19/2023 12:35:16 AM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/19/2023 12:35:10 AM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/19/2023 12:08:29 AM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/19/2023 12:08:01 AM ***|
+
+
+Index was outside the bounds of the array.|*** Date Of The Event :1/19/2023 12:06:06 AM ***|
+
+
+Index was outside the bounds of the array.|*** Date Of The Event :1/18/2023 11:36:50 PM ***|
+
+
+Object reference not set to an instance of an object|*** Date Of The Event :1/18/2023 11:36:25 PM ***|
+
+
+Object reference not set to an instance of an object|*** Date Of The Event :1/18/2023 11:36:19 PM ***|
+
+
+Object reference not set to an instance of an object|*** Date Of The Event :1/18/2023 11:34:10 PM ***|
+
+
+Index was outside the bounds of the array.|*** Date Of The Event :1/18/2023 10:11:21 PM ***|
+
+
+Index and length must refer to a location within the string.
+Parameter name: length|*** Date Of The Event :1/18/2023 9:58:57 PM ***|
+
+
+startIndex cannot be larger than length of string.
+Parameter name: startIndex|*** Date Of The Event :1/18/2023 9:58:50 PM ***|
+
+
+startIndex cannot be larger than length of string.
+Parameter name: startIndex|*** Date Of The Event :1/18/2023 6:14:20 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 6:12:21 PM ***|
+
+
+startIndex cannot be larger than length of string.
+Parameter name: startIndex|*** Date Of The Event :1/18/2023 6:02:40 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 6:02:21 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 6:02:18 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 6:00:36 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 6:00:04 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:59:54 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:58:08 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:56:22 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:56:17 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:56:04 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:52:18 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:52:02 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:50:46 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:49:53 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:43:38 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 5:43:26 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 3:55:03 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 3:54:53 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 3:54:47 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 3:54:41 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 3:53:30 PM ***|
+
+
+Input string was not in a correct format.|*** Date Of The Event :1/18/2023 3:21:35 PM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x000a8] in /home/mel/Documents/csharp/MCal/Program.cs:67 |*** Date Of The Event :1/18/2023 3:21:18 PM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x000a8] in /home/mel/Documents/csharp/MCal/Program.cs:67 |*** Date Of The Event :1/18/2023 2:47:04 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x00090] in <0a8c211737c442c0905ba2893e4f3df0>:0 |*** Date Of The Event :1/18/2023 2:46:57 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x00090] in <0a8c211737c442c0905ba2893e4f3df0>:0 |*** Date Of The Event :1/18/2023 2:46:54 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x00090] in <0a8c211737c442c0905ba2893e4f3df0>:0 |*** Date Of The Event :1/18/2023 2:19:57 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:18:59 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:13:09 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:11:27 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:11:17 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:10:52 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:09:32 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:01:26 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0007d] in /home/mel/Documents/csharp/MCal/Program.cs:49 |*** Date Of The Event :1/18/2023 2:01:20 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:01:16 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:00:23 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:00:19 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:00:18 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 |*** Date Of The Event :1/18/2023 2:00:16 AM ***|
+
+
+System.FormatException: Input string was not in a correct format.
+  at System.Number.ThrowOverflowOrFormatException (System.Boolean overflow, System.String overflowResourceKey) [0x0001a] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Number.ParseDouble (System.ReadOnlySpan`1[T] value, System.Globalization.NumberStyles styles, System.Globalization.NumberFormatInfo info) [0x0007d] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Double.Parse (System.String s, System.IFormatProvider provider) [0x0001b] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at System.Convert.ToDouble (System.String value) [0x00013] in <de882a77e7c14f8ba5d298093dde82b2>:0 
+  at Console_Calculator.Program.MainMenu (System.String[] args) [0x0004b] in /home/mel/Documents/csharp/MCal/Program.cs:44 

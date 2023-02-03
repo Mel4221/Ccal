@@ -1,0 +1,7 @@
+/home/mel/Documents/csharp/MCal/bin/Release/MCal.exe
+/home/mel/Documents/csharp/MCal/bin/Release/QuickTools.dll
+/home/mel/Documents/csharp/MCal/bin/Release/QuickTools.xml
+/home/mel/Documents/csharp/MCal/obj/x86/Release/MCal.csproj.AssemblyReference.cache
+/home/mel/Documents/csharp/MCal/obj/x86/Release/MCal.csproj.CoreCompileInputs.cache
+/home/mel/Documents/csharp/MCal/obj/x86/Release/MCal.csproj.CopyComplete
+/home/mel/Documents/csharp/MCal/obj/x86/Release/MCal.exe

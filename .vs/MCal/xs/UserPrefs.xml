@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FC794E3B-2586-424B-8863-096E25BD6F6D}|Default">
+  <MonoDevelop.Ide.ItemProperties.MCal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MCalEntry_Methods.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="35" />
+      <File FileName="MCalEntry_Methods.cs" Line="164" Column="35" />
+      <File FileName="MCalEntry_Fields.cs" Line="31" Column="7" />
+      <File FileName="ConfigChecker.cs" Line="43" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MCal" expanded="True">
+            <Node name="MCal" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="QuickTools" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

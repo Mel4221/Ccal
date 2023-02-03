@@ -23,40 +23,15 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
-using QuickTools;
-namespace Ccal
+using System;
+namespace MCal
 {
-      internal class Parser
+      public partial class MCalEntry
       {
-
-            public void Arguments(string[] args)
-            {
-                  string input = "";
-                  string variableName = Get.IsNumber(args[0]) == false ? args[0] : null;
-                  bool isFirstValue = true; 
-                  int valA = 0;
-                  int valB = 0; 
-
-
-                  for(int a =0; a<args.Length; a++)
-                  {
-                        input += args[a]+" ";
-                        
-                        if(Get.IsNumber(args[a]) == true && isFirstValue == true)
-                        {
-                              valA = int.Parse(args[a]);
-                              isFirstValue = false; 
-                        }
-                        if (Get.IsNumber(args[a]) == true && isFirstValue == false)
-                        {
-                              valB = int.Parse(args[a]);
-                        }
-                      
-
-                  }
-                  Get.Green($"Variable {variableName} {valA} {valB}");
-
-            }
-           
+            static string[] Arguments { get; set; }
+            static string dbVars = "Variables.db";
+            static string dbName = "MCal.db";
+            static bool IsWithParameters { get; set; }
+            static double x;
       }
 }
